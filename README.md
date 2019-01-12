@@ -1,1 +1,0 @@
-# Attack-to-SOAR-SIEM
